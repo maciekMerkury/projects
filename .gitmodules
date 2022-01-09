@@ -1,0 +1,9 @@
+[submodule "base_changer"]
+	path = base_changer
+	url = https://github.com/maciekMerkury/base_changer.git
+[submodule "distributed_random"]
+	path = distributed_random
+	url = https://github.com/maciekMerkury/distributed_random.git
+[submodule "tape_computer"]
+	path = tape_computer
+	url = https://github.com/maciekMerkury/tape_computer.git
