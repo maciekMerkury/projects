@@ -7,3 +7,6 @@
 [submodule "tape_computer"]
 	path = tape_computer
 	url = https://github.com/maciekMerkury/tape_computer.git
+[submodule "music_splitter"]
+	path = music_splitter
+	url = https://github.com/maciekMerkury/music_splitter.git
